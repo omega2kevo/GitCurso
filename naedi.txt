@@ -1,3 +1,2 @@
 Arquivo de teste para texto
-
 linha de texto para teste apenas.
